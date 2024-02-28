@@ -12,9 +12,9 @@ settlement from scratch.
 In 180 seconds, the adventurers are to gather resources and build facilities to gain points as many as possible. I used GOAP action planning to help each ship decide the best
 action to perform in every situation it may encounter. Details of the simulated environment are in the following images.
 
-<img src="./images/ships.png" alt="ships" width="1280" height="720"/>
+<img src="./images/ships.png" alt="ships" width="640" height="400"/>
 
-<img src="./images/resources.png" alt="ships" width="1280" height="720"/>
+<img src="./images/resources.png" alt="ships" width="640" height="400"/>
 
 ## Goal Oriented Action Planning (GOAP)
 
